@@ -1,0 +1,1 @@
+Due to the original "Austrian Trains" NewGRF resources that are unfortunatley no longer found the [Austrian Trains Develpment page](https://www.tt-forums.net/viewtopic.php?p=1215894) does have Github links but unfortunatley, they are no longer valid and only present 404 error messages
